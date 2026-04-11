@@ -1,0 +1,19 @@
+{
+  "theme": "dark",
+  "interval": 1.0,
+  "timeout": 1000,
+  "hosts": [
+    {
+      "name": "Google DNS",
+      "host": "8.8.8.8"
+    },
+    {
+      "name": "Cloudflare",
+      "host": "1.1.1.1"
+    },
+    {
+      "name": "INSTAGRAN",
+      "host": "www.instagran.com"
+    }
+  ]
+}
